@@ -1,3 +1,7 @@
+
+# Let's start by creating the node class:
+
+
 class node:
     def __init__(self, data=None, next=None):
         self.data = data
